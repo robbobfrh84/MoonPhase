@@ -4,7 +4,7 @@ A casual collection of coding demos, walkthroughs and "hello, World!"s.
 ### Live Links
 
 CSS
-* 2 Block positiong with css: https://robbobfrh84.github.io/demos/css-2-block-positioning-demo
+* 2 Block positiong with css: https://robbobfrh84.github.io/demos/css-2-block-positioning
 * Typography with google fonts (CDN) demo: http://robbobfrh84.github.io/demos/css-typography-demo
 * Pseudo-classes in css demo: http://robbobfrh84.github.io/demos/css-pseudo-classes-demo
 * Bootstrap - up and running :  https://robbobfrh84.github.io/demos/css-bootstrap-demo
