@@ -11,8 +11,7 @@ CSS
 * Bootstrap layout demo: https://robbobfrh84.github.io/demos/css-bootstrap-layout-demo
 
 JavaScript
-* JS Basics: variables, if/else, console.log(), alert(), document.write():
-  * https://robbobfrh84.github.io/demos/js-basics
+* JS Basics: variables, if/else, console.log(), alert(), document.write(): https://robbobfrh84.github.io/demos/js-basics
 * JS loops & functions: https://robbobfrh84.github.io/demos/js-loops-funcs
 
 * MoonPhase: http://robbobfrh84.github.io/demos
