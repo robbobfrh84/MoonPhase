@@ -1,5 +1,5 @@
 # Coding Demos
-A casual collection of coding demos, walkthroughs and "hello, World!"s.
+A casual collection of coding demos, walkthroughs and "Hello, world!"s.
 
 ### Live Links
 
