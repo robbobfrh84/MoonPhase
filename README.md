@@ -1,7 +1,7 @@
 # Coding Demos
 A casual collection of coding demos, walkthroughs and "Hello, world!"s.
 
-### Live Links !
+### Live Links !!
 
 CSS
 * 2 Block positiong with css: https://robbobfrh84.github.io/demos/css-2-block-positioning
@@ -14,4 +14,3 @@ JavaScript
 * JS Basics: variables, if/else, console.log(), alert(), document.write(): https://robbobfrh84.github.io/demos/js-basics
 * JS loops & functions: https://robbobfrh84.github.io/demos/js-loops-funcs
 * MoonPhase: http://robbobfrh84.github.io/demos
-
